@@ -1,10 +1,10 @@
-# PA5_1 project repository link:
+* PA5_1 project repository link:
 [PA5_1 Project repository](https://github.com/IULIAN-COSTEA/PA5_1)
 
-# PA5_1 project jupyter notebook file link:
+* PA5_1 project jupyter notebook file link:
 [PA5_1 Project repository]((https://github.com/IULIAN-COSTEA/PA5_1/blob/main/PA5_1.ipynb))
 
-# PA5_1 project conclusions
+* PA5_1 project conclusions
 *Considering the analysis above and the finding , I conclude the following:
 
 * Drivers that are visiting the bars more than 1 time a month and are over the age of 25 have an acceptance rate close to 70%. There is a strong corelation between number ob monthly visits to the bars and the cupon acceptance rate
