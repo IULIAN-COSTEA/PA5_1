@@ -9,7 +9,7 @@
 ##### Deliverables
 ###### Your final product should be a brief report that highlights the differences between customers who did and did not accept the coupons. To explore the data you will utilize your knowledge of plotting, statistical summaries, and visualization using Python. You will publish your findings in a public facing github repository as your first portfolio piece.
 #
-###### PA5_1 project jupyter notebook file link: [PA5_1 Jupyter notebook project file]((../blob/main/PA5_1.ipynb))
+###### Project jupyter notebook file: [PA5_1 Jupyter notebook file]((../blob/main/PA5_1.ipynb))
 #
 ### Project conclusions
 * Drivers that are visiting the bars more than 1 time a month and are over the age of 25, have pretty high coupon an acceptance rate, close to 70%. There is a significant corelation between number of monthly visits to the bars and the coupon acceptance rate.
