@@ -11,7 +11,7 @@
 #
 ###### Project jupyter notebook file: [PA5_1 Jupyter notebook file](https://github.com/IULIAN-COSTEA/PA5_1/blob/main/PA5_1.ipynb)
 #
-### Project conclusions
+### Analysis conclusions
  * Drivers that are visiting the bars more than 1 time a month and are over the age of 25 have a hight acceptance rate, close to 70%. There is a strong corelation between the number of monthly visits to the bars and the cupon acceptance rate (for more details please check section 4 charts and conclusions)
  * If the drivers are also accompanied by other persons (excluding kids) then the acceptance rate can be slighly improved (for more details please check section 6 above). It seems that there is a relative weak correlation betwwen the accompaning person and the coupon acceptance rate. Next step: >> Explore for ther this potential correlation between those categories.
  * Although there is a correlation between age and coupon acceptance, for the analysis we have conducted age was not relevant. This can be seen ithe the chart above. Nevertheless, there is a deacrease of acceptance rate in the older age groups and this might deserve some additional analysis. Next steps: >> To analyse correlation between age groups and coupon acceptance rate. 
